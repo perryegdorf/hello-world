@@ -1,2 +1,3 @@
-welcome to git
+hello and welcome to git
 practice makes perfect
+goodbye
